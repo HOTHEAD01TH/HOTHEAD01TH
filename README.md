@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm HOTHEAD01TH</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+haven't updated github since last year so please don't judge 🥺😂
+
 - 🔭 I’m currently working on **front end + back end**
 
 - 🌱 I’m currently learning **machine learning**

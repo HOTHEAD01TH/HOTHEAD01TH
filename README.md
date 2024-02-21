@@ -1,14 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm HOTHEAD01TH</h1>
-<h3 align="center">A passionate frontend developer from Kashmir</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **front end + back end**
 
-- 🌱 I’m currently learning **back end**
+- 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **any project**
-
-- 🤝 I’m looking for help with **this project**
 
 - 👨‍💻 All of my projects are available at [https://hothead01th.github.io/personal-portfolio/](https://hothead01th.github.io/personal-portfolio/)
 

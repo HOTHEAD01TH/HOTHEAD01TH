@@ -10,7 +10,7 @@
 
 <h3 align="center"> 
   Hi My Name is Zaid Adil ,
-  I'm a Full Stack Web Developer based in India 🇮🇳.
+  I'm a Full Stack Web Developer based in India.
 </h3>
 
 <p align="center">

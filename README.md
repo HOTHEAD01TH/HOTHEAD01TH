@@ -54,23 +54,23 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOTHEAD01TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HOTHEAD01TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />-->
 
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOTHEAD01TH&theme=dark&hide_border=false" />
 <div/>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOTHEAD01TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HOTHEAD01TH&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+</div> -->
 
 ### ✍️ Random Dev Quote
 

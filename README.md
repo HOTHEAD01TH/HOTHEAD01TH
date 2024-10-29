@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center"> 
-  Hi My Name is Zaid Adil ,
+  Hi My Name is Zaid Adil aka HOT HEAD ,
   I'm a Full Stack Web Developer based in India.
 </h3>
 
